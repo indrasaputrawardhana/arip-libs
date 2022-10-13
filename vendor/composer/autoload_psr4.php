@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Isw\\AripLibs\\' => array($baseDir . '/src'),
+    'Indrasaputrawardhana\\AripLibs\\' => array($baseDir . '/src'),
 );

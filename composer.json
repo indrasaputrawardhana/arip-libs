@@ -1,9 +1,10 @@
 {
-    "name": "isw/arip-libs",
+    "name": "indrasaputrawardhana/arip-libs",
+    "description": "library yang menunjang aplikasi arip",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Isw\\AripLibs\\": "src/"
+            "Indrasaputrawardhana\\AripLibs\\": "src/"
         }
     },
     "authors": [

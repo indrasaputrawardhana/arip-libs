@@ -1,0 +1,16 @@
+{
+    "name": "isw/arip-libs",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Isw\\AripLibs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Indra Saputra Wardhana",
+            "email": "indrasaputrawardhana@gmail.com"
+        }
+    ],
+    "require": {}
+}
